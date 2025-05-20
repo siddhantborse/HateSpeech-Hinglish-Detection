@@ -28,3 +28,20 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+
+---
+
+### 📦 `requirements.txt`
+
+```txt
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+langdetect
+folium
+google-api-python-client
+
